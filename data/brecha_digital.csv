@@ -1,0 +1,87 @@
+﻿ID,PUNTO_DE_CONEXION,DOMICILIO,COLONIA-COMUNIDAD,ZONA,LOCALIDAD,SEDE,LATITUD,LONGITUD,PROGRAMA,TIPO,BENEFICIARIOS,FASE,FECHA_INSTAL,ICONO
+1,Primaria 5 de mayo,Boulevard Renacimiento del Potrero,Nuevo Amanecer,urbana,León de los Aldama,Escuela,21.1179868,-101.6070693,Brecha Digital,,486,Instalado,abr-18,calculator
+2,Primaria Joel Cisneros Lara,Boulevard Torre Leon SN,Paseo de las Torres,urbana,León de los Aldama,Escuela,21.1672738,-101.7583752,Brecha Digital,,247,Instalado,abr-18,calculator
+3,Primaria Tierra y Libertad,"Ejido Los Naranjos, Oficinas del Partido Accion Nacional",Los Naranjos,urbana,León de los Aldama,Escuela,21.1545128,-101.618882,Brecha Digital,,201,Instalado,abr-18,calculator
+4,Primaria Dr Pablo del Rio,Boulevard Campestre Ahuehuete SN,Urbi Villa del Roble,urbana,León de los Aldama,Escuela,21.1664617,-101.7652038,Brecha Digital,,689,Instalado,abr-18,calculator
+5,Primaria Miguel Hidalgo,Valle del Sahuan SN,Rancho Nuevo El Maguey,urbana,León de los Aldama,Escuela,21.0853331,-101.6203514,Brecha Digital,,447,Instalado,abr-18,calculator
+6,Telesecundaria num 581,Antigua Salida A San Felipe No 103,Ibarrilla,urbana,León de los Aldama,Escuela,21.1872946,-101.65217,Brecha Digital,,318,Instalado,abr-18,calculator
+7,Primaria Emiliano Zapata,Emiliano Zapata km 14,Los Sauces,rural,Los Sauces,Escuela,21.0242972,-101.5412377,Brecha Digital,Satelital,384,Instalado,abr-18,calculator
+8,Telesecundaria No 123,Estudiante No 1 Carretera Leon Silao,Los Sauces,rural,Los Sauces,Escuela,21.1708415,-101.6776342,Brecha Digital,Satelital,323,Instalado,abr-18,calculator
+9,Primaria Albino Garcia,Comunidad San Jose del Potrero Club Cinegetico del Bajio,San Jose del Potrero,rural,,Escuela,21.1342671,-101.6005155,Brecha Digital,,611,Instalado,abr-18,calculator
+10,Primaria Insurgentes,Canada de Alfaro pasando el rio,Alfaro,rural,Alfaro,Escuela,21.1483992,-101.6083774,Brecha Digital,Radiobase,410,Instalado,abr-18,calculator
+11,Telesecundaria No 1003,Mesa de Ibarrilla Salida a Ibarrilla SN,Mesa de Ibarrilla,rural,Alfaro,Escuela,21.2194781,-101.6500964,Brecha Digital,,46,Instalado,abr-18,calculator
+12,Primaria Benito Juarez,Camino viejo a Lagos SN y griega carretera Leon  Lagos de Moreno,Lagunillas,rural,Rancho Nuevo La Venta,Escuela,21.1865838,-101.7743925,Brecha Digital,Satelital,230,Instalado,may-18,calculator
+13,Telesecundaria Num 527,Camino a los Tepetates No 4,Los Arcos,rural,Los Ramirez,Escuela,21.0659537,-101.6749664,Brecha Digital,Satelital,238,Instalado,may-18,calculator
+14,Telesecundaria num 528,Camino Calle de los volcanes No 102,San Pedro del Monte Hospital,rural,Santa Rosa Plan de Ayala,Escuela,21.0335226,-101.7117219,Brecha Digital,Satelital,292,Instalado,may-18,calculator
+15,Primaria Melchor Ocampo,Carretera Leon San Francisco Del Rincon,La Mora,rural,Rancho Nuevo La Venta,Escuela,21.0656266,-101.7634213,Brecha Digital,Satelital,136,Instalado,abr-18,calculator
+24,El Derramadero,A un costado de la Escuela Primaria Francisco Javier Mina,El Derramadero,rural,Nuevo Valle de Moreno,Escuela,21.16708,-101.416859,Brecha Digital,Radiobase,141,Instalado,dic-18,calculator
+34,Benito de Juarez,Juan de Grijalva 116,Dentro del Jardin de NiÒos Amado Nervo,rural,Santa Ana del Conde,Escuela,21.0775,-101.5802778,Brecha Digital,Satelital,86,Instalado,mar-19,calculator
+41,Granjas Economicas,Avenida del sur 60,Lomas del suspiro,rural,Los Sauces,Escuela,21.0347222,-101.5536111,Brecha Digital,Satelital,152,Instalado,mar-19,calculator
+43,Jacales,Calle Alamo SN,Jacales,rural,Los Sauces,Escuela,21.0369444,-101.5488889,Brecha Digital,Satelital,448,Instalado,mar-19,calculator
+51,Los Lopez,Calle principal 255,Los Lopez,rural,Los Sauces,Escuela,21.0478861,-101.5703139,Brecha Digital,Satelital,652,Instalado,mar-19,calculator
+68,Saucillo de Avalos,Escuela Primaria AgustÌn de Iturbide,Saucillo de Avalos camino a Nuevo Valle de Moreno,rural,Huizache,Escuela,21.235124,-101.617192,Brecha Digital,,148,Planeado,,calculator
+80,Bionodo BajÌo Los Ramirez,Bachillerato SABES Calle B Num 205 Entre Calle Benito Juarez y Calle del Olvido posterior Calle Ninguno,Los Ramirez,rural,Los Ramirez,Escuela,21.011236,-101.651452,Brecha Digital,,0,Planeado,,calculator
+84,San JosÈ de los Sapos,Telesecundaria 1129,San JosÈ de los Sapos,rural,Santa Rosa Bacn de Ayala,Escuela,21.010958,-101.690159,Brecha Digital,,1012,Planeado,,calculator
+85,La Mora,Carr Leon San Francisco del Rincon Escuela primaria Melchor Ocampo,La Mora,rural,Rancho Nuevo La Venta,Escuela,21.066363,-101.76369,Brecha Digital,,430,Planeado,,calculator
+86,La Reserva,Calle Principal DesviaciÛn Autopista San Fco-Silao Escuela primaria Miguel Hidalgo,La Reserva,rural,Rancho Nuevo La Venta,Escuela,21.079991,-101.746168,Brecha Digital,,909,Planeado,,calculator
+20,Alfaro,Templo de Alfaro,Alfaro,rural,Alfaro,Iglesia,21.1479609,-101.6121765,Brecha Digital,Radiobase,2381,Instalado,ene-19,plus
+22,Las Canelas,Iglesia de la comunidad,Las Canelas,rural,Nuevo Valle de Moreno,Iglesia,21.2189082,-101.4665325,Brecha Digital,Radiobase,147,Instalado,dic-18,plus
+28,San Jose de Otates Norte,Escalinata para acceder al atrio de la Iglesia de la comunidad,San Jose de Otates Norte,rural,Nuevo Valle de Moreno,Iglesia,20.7819321,-101.8042393,Brecha Digital,Radiobase,47,Instalado,ene-19,plus
+30,Sauz Seco,Terreno frente al atrio de la iglesia,Sauz Seco,rural,Alfaro,Iglesia,21.1683518,-101.5455623,Brecha Digital,Radiobase,101,Instalado,dic-18,plus
+33,Albarradones,Calle Central SN,Parroquia de Nuestra SeÒora del Refugio,rural,Los Sauces,Iglesia,21.0402778,-101.5036111,Brecha Digital,Satelital,810,Instalado,mar-19,plus
+35,Duarte,Calle La luz SN,Duarte,rural,Duarte,Iglesia,21.08565,-101.5222028,Brecha Digital,Satelital,6261,Instalado,mar-19,plus
+39,El Ramillete,Templo de la Virgen del Sagrado Corazon de Jesus,El Ramillete,rural,Santa Rosa Plan de Ayala,Iglesia,21.0430847,-101.5914621,Brecha Digital,Satelital,880,Instalado,mar-19,plus
+42,Guadalupe Victoria,Calle Principal 213,Guadalupe Victoria,rural,Santa Ana del Conde,Iglesia,21.0194444,-101.5797222,Brecha Digital,Satelital,513,Instalado,mar-19,plus
+45,La Patina,Calle principal al Templo SN,La Patina,rural,Hacienda Arriba,Iglesia,21.1955556,-101.7055556,Brecha Digital,Satelital,788,Instalado,mar-19,plus
+47,La Sandia,En el Templo,La Sandia,rural,La Sandia,Iglesia,20.9223528,-101.697,Brecha Digital,Satelital,2136,Instalado,mar-19,plus
+52,Los Ramirez,Calle principal SN,Los Ramirez,rural,Los Ramirez,Iglesia,21.0196667,-101.6459333,Brecha Digital,Satelital,2473,Instalado,mar-19,plus
+53,Los Sauces,Calle Lopez Mateos SN,Los Sauces,rural,Los Sauces,Iglesia,21.0234778,-101.5393806,Brecha Digital,Satelital,1228,Instalado,mar-19,plus
+56,Nuevo Lindero,Calle Ignacio Medina 20,Nuevo Lindero,rural,La Sandia,Iglesia,21.9588889,-101.6369444,Brecha Digital,Satelital,896,Instalado,mar-19,plus
+57,Puerta de San German,Calle Feliciano Domiguez,Puerta de San German,rural,Santa Rosa Plan de Ayala,Iglesia,21.0336111,-101.7802778,Brecha Digital,Satelital,827,Instalado,mar-19,plus
+59,Rancho Nuevo La Luz,Templo de la Comunidad,Rancho Nuevo La Luz,rural,Rancho Nuevo La Venta,Iglesia,21.9630556,-101.645,Brecha Digital,Satelital,1025,Instalado,mar-19,plus
+62,San Juan de Otates,Calle principal SN,San Juan de Otates,rural,San Juan de Otates,Iglesia,21.1144639,-101.5577833,Brecha Digital,Satelital,2905,Instalado,mar-19,plus
+63,San Judas,Calle San Judas SN,Frente al Templo,rural,La Sandia,Iglesia,21.9991667,-101.7047222,Brecha Digital,Satelital,1698,Instalado,mar-19,plus
+66,El Terrero,Calle Alamo 3,El Terrero,rural,Santa Ana del Conde,Iglesia,20.9611111,-101.6052778,Brecha Digital,Satelital,208,Instalado,mar-19,plus
+23,Cuesta Blanca,Terreno ubicado a un costado de la calle principal,Cuesta Blanca,rural,Duarte,Otro,21.105861,-101.49116,Brecha Digital,Radiobase,137,Instalado,dic-18,place
+27,San Jose de Otates Sur,Comedor comunitario de la comunidad,San Jose de Otates Sur,rural,Nuevo Valle de Moreno,Otro,21.2602499,-101.5787527,Brecha Digital,Radiobase,73,Instalado,ene-19,place
+29,San Jose de los Romeros,Calle Juarez 60,San Jose de los Romeros,rural,Los Sauces,Otro,21.0371698,-101.4924811,Brecha Digital,Radiobase,137,Instalado,dic-18,place
+36,Ejido Pompa,Calle Lazaro Cardenas 202,Ejido Pompa,rural,Los Ramirez,Otro,21.0752778,-101.6875,Brecha Digital,Radiobase,77,Instalado,mar-19,place
+64,San Pedro del Monte,Calle de las haciendas,San Pedro del Monte,rural,Santa Rosa Plan de Ayala,Otro,21.0313889,-101.7147222,Brecha Digital,Satelital,857,Instalado,mar-19,place
+67,Mesa de Ibarrilla,El centro de salud tentativamene,Mesa de Ibarrilla,rural,Huizache,Otro,21.223234,-101.638172,Brecha Digital,,220,Planeado,,place
+69,El Huizache,Plancha de concreto junto al Centro de Salud,El Huizache,rural,Huizache,Otro,21.244692,-101.587187,Brecha Digital,,32,Planeado,,place
+21,Los Alisos,Casa del guardabosques y comedor comunitario de la comunidad,Los Alisos,rural,Alfaro,Particular,21.1343948,-101.6485637,Brecha Digital,Radiobase,54,Instalado,dic-18,home
+37,El Capricho,Casa particular a un lado del templo,El Capricho,rural,La Sandia,Particular,21.9977778,-101.69,Brecha Digital,Satelital,1249,Instalado,mar-19,home
+38,El Nacimiento,Calle Privada Santa Maria 128,El Nacimiento,rural,Rancho Nuevo La Venta,Particular,21.0583333,-101.7722222,Brecha Digital,Satelital,280,Instalado,mar-19,home
+40,El Vergel,Calle Vergel SN,El Vergel,rural,San Juan de Otates,Particular,21.075,-101.69,Brecha Digital,Satelital,288,Instalado,mar-19,home
+44,La Laborcita,Calle principal 113,La Laborcita,rural,San Juan de Otates,Particular,21.1069739,-101.5576617,Brecha Digital,Satelital,1567,Instalado,mar-19,home
+46,La Providencia,Calle primero de enero 6,La Providencia,rural,La Sandia,Particular,21.0741667,-101.66,Brecha Digital,Satelital,797,Instalado,mar-19,home
+49,Lagunillas,Calle Andador del Caserio 104,Lagunillas,rural,Rancho Nuevo La Venta,Particular,21.2022222,-101.765,Brecha Digital,Satelital,552,Instalado,mar-19,home
+50,Los Arcos,Arco Olimpico 205,Los Arcos,rural,Los Ramirez,Particular,21.0491667,-101.6872222,Brecha Digital,Satelital,1174,Instalado,mar-19,home
+54,Loza de los Padres,Calle principal SN predio particular,Loza de los Padres,rural,Duarte,Particular,21.0716667,-101.5472222,Brecha Digital,Satelital,2875,Instalado,mar-19,home
+55,Lucio Blanco,Lucio Blanco SN Cuenca Rio lerma,Lucio Blanco,rural,San Juan de Otates,Particular,21.1152778,-101.5511111,Brecha Digital,Satelital,1218,Instalado,mar-19,home
+58,Puerta del Cerro,Calle Carlos Medina SN,Puerta del Cerro,rural,Rancho Nuevo La Venta,Particular,21.05,-101.7861111,Brecha Digital,Satelital,417,Instalado,mar-19,home
+60,San Carlos La Roncha,Casa particular a un lado del templo,San Carlos La Roncha,rural,San Juan de Otates,Particular,21.0710083,-101.5872667,Brecha Digital,Satelital,0,Instalado,mar-19,home
+61,San Jose del Barron El Cachete,Calle principal SN,San Jose del Barron,rural,Los Ramirez,Particular,21.1619444,-101.4963889,Brecha Digital,Satelital,160,Instalado,mar-19,home
+65,Santa Rosa Plan de Ayala,Templo de la Comunidad,Santa Rosa Plan de Ayala,rural,Santa Rosa Plan de Ayala,Particular,21.0709528,-101.7222111,Brecha Digital,Satelital,5134,Instalado,mar-19,home
+73,Llano Grande,Predio particular sobre la carretera (tienda de la comunidad),Llano Grande,rural,Alfaro,Particular,21.156225,-101.581025,Brecha Digital,,57,Planeado,,home
+16,Plaza de la Ciudadania Griselda Alvarez,Boulevard Vasco de Quiroga 2101,Presidentes de Mexico,urbana,León de los Aldama,Plaza,21.1393885,-101.6514,Brecha Digital,,0,Instalado,oct-18,employees
+17,Plaza de la Ciudadania Efrain Huerta,Calle Hegel esquina Pascal SN,Soledad de las Joyas,urbana,León de los Aldama,Plaza,21.140619,-101.7566187,Brecha Digital,,0,Instalado,oct-18,employees
+18,Plaza de la Ciudadania Praxedis Guerrero,Calle Felix Romero 613,Periodistas mexicanos,urbana,León de los Aldama,Plaza,21.09342,-101.7521077,Brecha Digital,,0,Instalado,oct-18,employees
+26,Nuevo Valle de Moreno,Plaza Principal,Nuevo Valle de Moreno,rural,Nuevo Valle de Moreno,Plaza,21.2107683,-101.42503,Brecha Digital,Radiobase,863,Instalado,dic-18,employees
+31,San Rafael Cerro Verde,Plaza Principal,San Rafael Cerro Verde,rural,Nuevo Valle de Moreno,Plaza,21.16274,-101.46,Brecha Digital,Radiobase,47,Instalado,ene-19,employees
+32,Vaquerias,En la Plaza principal frente a la iglesia,Vaquerias,rural,Nuevo Valle de Moreno,Plaza,21.1553558,-101.4017567,Brecha Digital,Radiobase,974,Instalado,dic-18,employees
+48,Ladrillera del Refugio,Plaza del templo,Ladrillera del Refugio,rural,San Juan de Otates,Plaza,21.0847222,-101.5536111,Brecha Digital,Satelital,1642,Instalado,mar-19,employees
+71,Ojo de Agua de los Reyes,Plaza principal,Ojo de Agua de los Reyes,rural,Alfaro,Plaza,21.189019,-101.621215,Brecha Digital,,624,Planeado,,employees
+72,Los Naranjos,Plaza principal saliendo del templo,Los Naranjos,rural,Alfaro,Plaza,21.168461,-101.626194,Brecha Digital,,793,Planeado,,employees
+74,Zaragoza,Plaza principal  frente al templo,Zaragoza,rural,Los Sauces,Plaza,21.0310742,-101.507943,Brecha Digital,,495,Planeado,,employees
+75,Playas de Sotelo,Plaza principal frente a la secundaria,Playas de Sotelo,rural,Santa Ana del Conde,Plaza,20.966386,-101.550268,Brecha Digital,,892,Planeado,,employees
+76,Santa Ana del Conde ,Plaza principal  explanada,Santa Ana del Conde ,rural,Santa Ana del Conde,Plaza,20.959029,-101.578064,Brecha Digital,,3456,Planeado,,employees
+77,La Arcina ,Plaza a un lado del tanque elevado exmuro de la hacienda,La Arcina ,rural,Santa Ana del Conde,Plaza,20.941201,-101.614122,Brecha Digital,,896,Planeado,,employees
+78,La Cinta,Plaza principal junto a la tienda grande,La Cinta,rural,La Sandia,Plaza,20.929385,-101.671549,Brecha Digital,,367,Planeado,,employees
+79,Los Tepetates ,Camino a San Antonio de los Tepetates Plaza principal al lado del Templo,Los Tepetates ,rural,Los Ramirez,Plaza,21.044766,-101.674572,Brecha Digital,,1118,Planeado,,employees
+81,El Resplandor,Plaza principal,El Resplandor,rural,La Sandia,Plaza,21.00103,-101.604518,Brecha Digital,,738,Planeado,,employees
+82,El Consuelo (San Jose del Consuelo),Plaza principal junto al templo,El Consuelo (San Jose del Consuelo),rural,La Sandia,Plaza,21.010958,-101.690159,Brecha Digital,,349,Planeado,,employees
+83,Estancia de los Sapos,Plaza principal dentro de la reja del templo,Estancia de los Sapos,rural,Santa Rosa Plan de Ayala,Plaza,21.024779,-101.746299,Brecha Digital,,672,Planeado,,employees
+19,San Francisco de Duran (San AgustÌn del Mirasol),Alvaro Obregon,San Francisco de los Duran,rural,Los Ramirez,Vialidad,21.0047765,-101.6234388,Brecha Digital,Radiobase,2311,Instalado,feb-18,directions
+25,La Mesa del Obispo,Frente a comedor comunitario,Mesa del Obispo,rural,Nuevo Valle de Moreno,Vialidad,21.14766,-101.43512,Brecha Digital,Radiobase,19,Instalado,dic-18,directions
+70,Hacienda Arriba,Calle principal en la parada de autob˙s,Hacienda Arriba,rural,Hacienda Arriba,Vialidad,21.231131,-101.70473,Brecha Digital,,1570,Planeado,,directions

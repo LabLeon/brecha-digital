@@ -1,0 +1,15 @@
+﻿ID,PUNTO_DE_CONEXION,DOMICILIO,COLONIA-COMUNIDAD,ZONA,LOCALIDAD,SEDE,LATITUD,LONGITUD,PROGRAMA,TIPO,BENEFICIARIOS,FASE,ICONO
+15,11DPR2808A,Ejido Comunidad El Consuelo S/N,Ejido El Consuelo,rural,SAN JOSE DEL CONSUELO (LA ENVIDIA),Escuela,21.0145,-101.69145,Conectividad SEG - ISP,Sin informacion,83,Instalado,pin
+51,11ETV1069N,"Calle Ojo De Agua De Los Reyes Numero Exterior: Sn,Rancho O Ranch",Ojo De Agua De Los Reyes,rural,OJO DE AGUA DE LOS REYES,Escuela,21.18884,-101.62228,Conectividad SEG - ISP,Sin informacion,94,Instalado,pin
+53,11DJN0166U,Santa Ana Del Conde,Santa Ana Del Conde,rural,ALVARO OBREGON (SANTA ANA DEL CONDE),Escuela,20.95913,-101.57639,México conectado,Sin informacion,163,Instalado,pin
+60,11DPR0701V,Comunidad La Hacina,La Arcina,rural,LA ARCINA,Escuela,20.94169,-101.61306,México conectado,Sin informacion,131,Instalado,pin
+61,11DPR0706Q,Comunidad La Cinta Terraceria Barretos- La Sandia,No Aplica,rural,LA CINTA,Escuela,20.92997,-101.67152,México conectado,Sin informacion,56,Instalado,pin
+65,11DPR1418E,Comunidad El Resplandor Carretera Santa Ana Del Conde-Los Ramirez,El Reaplandor,rural,EL RESPLANDOR (EL CHORRO),Escuela,20.99991,-101.60519,México conectado,Sin informacion,194,Instalado,pin
+73,11DPR2301M,Comunidad Zaragoza Carretera Leon-Comanjilla,Zaragoza,rural,IGNACIO ZARAGOZA,Escuela,21.0301,-101.50772,México conectado,Sin informacion,80,Instalado,pin
+85,11DZC0003E,"Calle Francisco Murguia Numero Exterior: Sn, Granja Santa Ana Del",Santa Ana Del Conde,rural,ALVARO OBREGON (SANTA ANA DEL CONDE),Escuela,20.959569,-101.576436,México conectado,Sin informacion,0,Instalado,pin
+176,11DPR1543C,Carretera Leon-San Francisco Del Rincon Carretera Leon-San Franci,La Mora,rural,LA MORA,Escuela,21.06612,-101.76323,Otro,Sin informacion,141,Instalado,pin
+177,11DPR1544B,Calle Principal Desviacion Autopista San Fco-Silao,La Reserva,rural,LA RESERVA,Escuela,21.07825,-101.74548,Otro,Sin informacion,105,Instalado,pin
+191,11DPR2704F,Camino Al Ojo De Agua De Los Reyes Oficinas Partido Accion Nacion,Ojo De Agua De Los Reyes,rural,OJO DE AGUA DE LOS REYES,Escuela,21.18884,-101.62206,Otro,Sin informacion,148,Instalado,pin
+214,11DPR3907H,Hermosillo S/N Carretera Leon- San Felipe,Hacienda Arriba San Jose,rural,HACIENDA ARRIBA (SAN JOSE DE LA CONCEPCION),Escuela,21.23006,-101.70521,Otro,Sin informacion,76,Instalado,pin
+265,11ETK0344P,"Calle El Resplandor (El Chorro) Numero Exterior: Sn, Rancho O Ran",El Resplandor (El Chorro),rural,EL RESPLANDOR (EL CHORRO),Escuela,21.000038,-101.604686,Otro,Sin informacion,0,Instalado,pin
+280,11ETV1129L,Avenida Barajas Num. Sn,No Aplica,rural,RANCHO SAN JOSE DE LOS SAPOS,Escuela,21.025058,-101.74583,Otro,Sin informacion,145,Instalado,pin

@@ -1,0 +1,10 @@
+﻿ID,PUNTO_DE_CONEXION,DOMICILIO,COLONIA-COMUNIDAD,ZONA,LOCALIDAD,SEDE,LATITUD,LONGITUD,PROGRAMA,TIPO,BENEFICIARIOS,FASE,ICONO
+13,11DPR2100P,Cortijo De Ansar S/N San Antonio Del Monte,Malagana,rural,Santa Rosa Plan de Ayala,Escuela,21.04916,-101.7524,Conectividad SEG - ISP,Sin informacion,150,Instalado,pin
+47,11ETV0686R,San Jose De Otates Sur,San Jose De Otates Sur,rural,Alfaro,Escuela,21.16827,-101.49334,Conectividad SEG - ISP,Sin informacion,41,Instalado,pin
+50,11ETV1014K,Las Coloradas Carretera Duarte,Las Coloradas,rural,Duarte,Escuela,21.09827,-101.50285,Conectividad SEG - ISP,Sin informacion,46,Instalado,pin
+67,11DPR1534V,"Calle Luna Nueva Numero Exterior: Sn, Rancho O Rancheria Capellan",Capellania De Loera,rural,Los Sauces,Escuela,21.036725,-101.59577,México conectado,Sin informacion,199,Instalado,pin
+69,11DPR1914D,"Calle Barretos Numero Exterior: Sn, Ejido Barretos, Codigo Postal",Barretos,rural,La Sandia,Escuela,20.93704,-101.64225,México conectado,Sin informacion,282,Instalado,pin
+75,11DPR2772C,Comunidad Las Coloradas Duarte,Las Coloradas,rural,Duarte,Escuela,21.09595,-101.50255,México conectado,Sin informacion,103,Instalado,pin
+190,11DPR2682K,San Antonio Carretera Leon-San Felipe,San Antonio,rural,Hacienda Arriba,Escuela,21.25928,-101.716,Otro,Sin informacion,33,Instalado,pin
+261,11ETK0212Y,"Calle Capellania De Loera Numero Exterior: Sn,Rancho O Rancheria ",Capellania De Loera,rural,Los Sauces,Escuela,21.03811,-101.59497,Otro,Sin informacion,0,Instalado,pin
+263,11ETK0342R,"Calle Barretos Santa Ana Del Conde Numero Exterior: Sn, Ejido Bar",Barretos,rural,La Sandia,Escuela,20.93714,-101.6433,Otro,Sin informacion,0,Instalado,pin

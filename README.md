@@ -1,2 +1,3 @@
-# brecha-digital
-Puntos de conectividad digital de León
+# Conectividad Digital
+
+Puntos de conexión gratuita a internet para las comunidades rurales de León.
